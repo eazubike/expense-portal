@@ -1,0 +1,51 @@
+Week Of Expenditure	Item	Item Bought?	Price
+Sunday 26 May 2024	Meat		8,000.00
+Sunday 26 May 2024	StockFish		2,200.00
+Sunday 26 May 2024	Onions		1,000.00
+Sunday 26 May 2024	Salt		500.00
+Sunday 26 May 2024	Redoil		2,500.00
+Sunday 26 May 2024	bitter leaf		600.00
+Sunday 26 May 2024	Coco yam		1,000.00
+Sunday 26 May 2024	Ogili igbo		500.00
+Sunday 26 May 2024	Yellow Pepper		200.00
+Sunday 26 May 2024	grounded pepper		1,000.00
+Sunday 26 May 2024	Tomatoes fresh		1,000.00
+Sunday 26 May 2024	Tomatoes Paste		700.00
+Sunday 26 May 2024	Pepper mix		1,000.00
+Sunday 26 May 2024	Seasoning		500.00
+Sunday 26 May 2024	groundnut oil		1,500.00
+Sunday 26 May 2024	plaintain		2,000.00
+Sunday 26 May 2024	yam		2,500.00
+Sunday 26 May 2024	potatoes		1,000.00
+Sunday 26 May 2024	beans		3,500.00
+Sunday 26 May 2024	rice		1,100.00
+Sunday 26 May 2024	pap		1,000.00
+Sunday 26 May 2024	milk		5,500.00
+Sunday 26 May 2024	coffe		2,500.00
+Sunday 26 May 2024	biscuit		3,000.00
+Sunday 26 May 2024	chinchin		3,000.00
+Sunday 26 May 2024	crate of egg		3,500.00
+Sunday 26 May 2024	Nepa		5,000.00
+Sunday 26 May 2024	Water		3,000.00
+Sunday 26 May 2024	Omo		1,500.00
+Sunday 26 May 2024	T- fare		500.00
+Sunday 26 May 2024	Insecticide		2,500.00
+Sunday 26 May 2024	Gabapentin		800.00
+Sunday 26 May 2024	Amulodipen		600.00
+Sunday 26 May 2024	Dolometa B		500.00
+Sunday 26 May 2024	Aboniki		600.00
+Sunday 26 May 2024	Emcap		400.00
+Sunday 26 May 2024	Bustan n		500.00
+Sunday 26 May 2024	Malaria medicine		1,500.00
+Sunday 26 May 2024	Maxi Tear		3,000.00
+Sunday 26 May 2024	Shea butter		500.00
+Sunday 26 May 2024	Amulodipen		600.00
+Sunday 26 May 2024	Eye antioxidants		1,500.00
+Sunday 26 May 2024	Gabapentin		800.00
+Sunday 26 May 2024	Nurovite fort		1,800.00
+Sunday 2 June 2024	Gas		15,000.00
+Sunday 2 June 2024	Egusi		1,500.00
+Sunday 2 June 2024	Stock Fish		2,200.00
+Sunday 2 June 2024	Red oil		1,500.00
+Sunday 2 June 2024	Maggi		500.00
+Sunday 2 June 2024	Ugu		1,500.00
